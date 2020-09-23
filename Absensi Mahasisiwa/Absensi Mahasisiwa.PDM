@@ -1,0 +1,217 @@
+[Root]
+Most Recent Package=Instal
+
+
+[Package|Instal|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\Package
+
+[Package|Instal|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Instal|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Instal|Files Found]
+
+[Package|Instal|Files Released]
+PG32CONV.DLL=
+SSCSDK80.DLL=
+U2FRTF.DLL=
+
+[Package|Instal|Missing Dependency Information]
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\cselexpt.ocx=
+C:\Program Files\VB Decompiler Pro\RICHTX32.OCX=
+
+[Package|Instal|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\Crystl32.OCX=
+C:\WINDOWS\system32\MCI32.OCX=
+
+[Package|Instal|Files Added]
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\DataAbsen.mdb=
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\ReportAbsensi.rpt=
+
+[Package|Instal|Files Removed]
+
+[Package|Instal|Files In Project]
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\Aplikasi Absention Mahasiswa.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSRDC20.OCX=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\msflxgrd.ocx=Yes
+C:\WINDOWS\system32\comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\Program Files\VB Decompiler Pro\RICHTX32.OCX=Yes
+C:\WINDOWS\system32\mschrt20.ocx=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\msmask32.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\comct332.ocx=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\Crystl32.OCX=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\implode.dll=Yes
+C:\WINDOWS\system32\pg32.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=Yes
+C:\WINDOWS\Crystal\Crxlat32.dll=Yes
+C:\WINDOWS\system32\p2bbnd.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\system32\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fdif.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\cselexpt.ocx=Yes
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\Program Files\Seagate Software\Report Designer Component\craxddrt.dll=Yes
+C:\WINDOWS\system32\Crpaig80.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\system32\P2smon.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\DataAbsen.mdb=Yes
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\ReportAbsensi.rpt=Yes
+
+[Package|Instal|Configure Registry Files]
+Applicable=No
+
+[Package|Instal|Configure Remote Servers]
+Applicable=No
+
+[Package|Instal|Install Locations]
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\Aplikasi Absention Mahasiswa.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msflxgrd.ocx=$(WinSysPath)
+C:\WINDOWS\system32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\Program Files\VB Decompiler Pro\RICHTX32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mschrt20.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\comct332.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\Crystl32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\pg32.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\CO2C40EN.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT20.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\Crystal\Crxlat32.dll=$(WinPath)\Crystal
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\system32\u2ddisk.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fdif.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2frec.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinPath)\Crystal
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinPath)\Crystal
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\cselexpt.ocx=$(WinSysPath)
+C:\Program Files\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\Program Files\Seagate Software\Report Designer Component\craxddrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\setup.exe=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\DataAbsen.mdb=$(AppPath)
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\ReportAbsensi.rpt=$(AppPath)
+
+[Package|Instal|Configure Shared Files]
+Applicable=Yes
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\Aplikasi Absention Mahasiswa.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\DataAbsen.mdb=No
+E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\ReportAbsensi.rpt=No
+
+[Package|Instal|Distribution]
+Type=single
+Size=
+Title=Absensi Mahasisiwa
+
+[Package|Instal|IconGroups]
+Group0=Absensi Mahasisiwa
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Instal|Absensi Mahasisiwa]
+Icon1="Aplikasi Absention Mahasiswa.exe"
+Title1=Absensi Mahasisiwa
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Instal|Package]
+PackageFolder=E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\Package
+ProjectFolder=E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa
+ServerSideCab=
+File1=E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\Package\setup.exe
+File2=E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\Package\Setup.Lst
+File3=E:\Program Aplikasi\Absensi Mahasisiwa\Absensi Mahasisiwa\Package\Aplikasi Absention Mahasiswa.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
